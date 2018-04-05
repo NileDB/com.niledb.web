@@ -1,4 +1,5 @@
 # NileDB Web
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20NileDB,%20the%20open-source%20Data%20Backend!&url=https://niledb.com)
 
 ![logo](logo.png)
 
@@ -24,5 +25,3 @@ NileDB Web is licensed under the GNU General Public License v3.0. See [LICENSE](
 Copyright (c) 2018, NileDB, Inc.
 
 [NileDB Web License](LICENSE.txt)
-
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20NileDB,%20the%20open-source%20Data%20Backend!&url=https://niledb.com)
