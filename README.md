@@ -25,4 +25,4 @@ Copyright (c) 2018, NileDB, Inc.
 
 [NileDB Web License](LICENSE.txt)
 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20NileDB (Data Backend)! ;-)&url=https://www.niledb.com)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20NileDB,%20the%20open-source%20Data%20Backend!&url=https://niledb.com)
